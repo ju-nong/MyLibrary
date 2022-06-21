@@ -1,7 +1,8 @@
 # MyLibrary
 
-SQL
+[메뉴구조도](document/메뉴구조도.png)
+![메뉴구조도](document/메뉴구조도.png)
 
-기능명세서
+[기능명세서](document/기능명세서.xlsx)
 
-메뉴구조도
+[SQL](document/dbSQL.sql)
